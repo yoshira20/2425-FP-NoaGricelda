@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="7b725cdc-4156-4250-bd99-2101f04e7659" name="Changes" comment="Tarea semana 14">
+      <change afterPath="$PROJECT_DIR$/Semana 15/informacion_personal.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;yoshira20&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/yoshira20/2425-FP-NoaGricelda.git&quot;,
+    &quot;accountId&quot;: &quot;3e91af8d-7438-43da-9d90-d0080e7b982d&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="2tMXE5lUQVSQzVqzOuPRZ9d3Ip6" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.Calculo_Descuento_Python.executor": "Run",
+    "Python.Matriz bidimencional 1.executor": "Run",
+    "Python.Matriz multidimencionales 3.executor": "Run",
+    "Python.Matriz multidimensional 2.executor": "Run",
+    "Python.Matriz multidimensionales temperatura.executor": "Run",
+    "Python.Uso de funciones.executor": "Run",
+    "Python.informacion_personal.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-822845ee3bb5-JavaScript-PY-243.23654.177" />
+        <option value="bundled-python-sdk-91d3a02ef49d-43b77aa2d136-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-243.23654.177" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7b725cdc-4156-4250-bd99-2101f04e7659" name="Changes" comment="" />
+      <created>1740162802584</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1740162802584</updated>
+      <workItem from="1740162803936" duration="839000" />
+      <workItem from="1740692265176" duration="497000" />
+      <workItem from="1740692959692" duration="219000" />
+      <workItem from="1740693196741" duration="453000" />
+      <workItem from="1740693668740" duration="15000" />
+      <workItem from="1740694194455" duration="1296000" />
+      <workItem from="1740863874894" duration="1421000" />
+      <workItem from="1741445825369" duration="1008000" />
+      <workItem from="1741446865861" duration="7094000" />
+      <workItem from="1742002571810" duration="1193000" />
+      <workItem from="1742003812641" duration="849000" />
+      <workItem from="1742054021248" duration="5721000" />
+      <workItem from="1742060067906" duration="696000" />
+      <workItem from="1742518506232" duration="683000" />
+      <workItem from="1743255242576" duration="316000" />
+    </task>
+    <task id="LOCAL-00001" summary="Readme update">
+      <option name="closed" value="true" />
+      <created>1740163476647</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1740163476647</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Tarea semana 11">
+      <option name="closed" value="true" />
+      <created>1740864945972</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1740864945972</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Tarea semana 12">
+      <option name="closed" value="true" />
+      <created>1741457175396</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1741457175396</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Tarea semana 12">
+      <option name="closed" value="true" />
+      <created>1741457262648</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1741457262648</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Tarea semana 13">
+      <option name="closed" value="true" />
+      <created>1742059783013</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1742059783013</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Tarea semana 14">
+      <option name="closed" value="true" />
+      <created>1742519046020</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1742519046020</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Readme update" />
+    <MESSAGE value="Tarea semana 11" />
+    <MESSAGE value="Tarea semana 12" />
+    <MESSAGE value="Tarea semana 13" />
+    <MESSAGE value="Tarea semana 14" />
+    <option name="LAST_COMMIT_MESSAGE" value="Tarea semana 14" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Semana 12/Matriz multidimensionales temperatura.py</url>
+          <line>11</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Semana 12/Matriz multidimensionales temperatura.py</url>
+          <line>9</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Semana 11/Matriz multidimensional 2.py</url>
+          <line>12</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+      </breakpoints>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/2425_FP_NoaGricelda$Matriz_multidimensional_2.coverage" NAME="Matriz multidimensional 2 Coverage Results" MODIFIED="1740864829332" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Semana 11" />
+    <SUITE FILE_PATH="coverage/2425_FP_NoaGricelda$Matriz_multidimensionales_temperatura.coverage" NAME="Matriz multidimensionales temperatura Coverage Results" MODIFIED="1742003059833" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Semana 12" />
+    <SUITE FILE_PATH="coverage/2425_FP_NoaGricelda$Matriz_bidimencional_1.coverage" NAME="Matriz bidimencional 1 Coverage Results" MODIFIED="1740864691576" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Semana 11" />
+    <SUITE FILE_PATH="coverage/2425_FP_NoaGricelda$Calculo_Descuento_Python.coverage" NAME="Calculo_Descuento_Python Coverage Results" MODIFIED="1742518995980" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Semana 14" />
+    <SUITE FILE_PATH="coverage/2425_FP_NoaGricelda$Matriz_multidimencionales_3.coverage" NAME="Matriz multidimencionales 3 Coverage Results" MODIFIED="1741446715221" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Semana 11" />
+    <SUITE FILE_PATH="coverage/2425_FP_NoaGricelda$Uso_de_funciones.coverage" NAME="Uso de funciones Coverage Results" MODIFIED="1742059700798" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Semana 13" />
+  </component>
+</project>
